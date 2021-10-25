@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background: gainsboro;
+}
+
+.Card {
+  width: 400px;
+  margin: 0 auto;
+  background: white;
+  padding: 20px;
+
+}
+
+Button {
+  margin: 20px;
+
+}
